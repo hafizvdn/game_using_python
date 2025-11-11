@@ -1,7 +1,10 @@
 🎮 Game Using Python
 
-🧩 Overview<br>
-<img width="355" height="269" alt="game menu" src="https://github.com/user-attachments/assets/3aaa83eb-abb0-40ec-96b3-8f6fececf7d1" /> <br>
+<img width="355" height="269" alt="game menu" src="https://github.com/user-attachments/assets/3aaa83eb-abb0-40ec-96b3-8f6fececf7d1" /> 
+<br>
+🧩 Overview
+<br>
+
 Game Using Python is a simple collection of fun mini-games built with a Graphical User Interface (GUI) using Python.
 It’s a beginner-friendly project that demonstrates how Python can be used to create interactive and enjoyable desktop applications.
 
