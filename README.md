@@ -1,6 +1,7 @@
 🎮 Game Using Python
 
-<img width="355" height="269" alt="game menu" src="https://github.com/user-attachments/assets/3aaa83eb-abb0-40ec-96b3-8f6fececf7d1" /> 
+<img width="390" height="574" alt="image" src="https://github.com/user-attachments/assets/c57b86f2-5248-4dff-a9a9-7fb863bf7db4" />
+
 <br>
 🧩 Overview
 <br>
